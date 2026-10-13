@@ -1,0 +1,5 @@
+order_id,quantity,unit_price,issue
+ORD021,-3.0,55000,quantity must be greater than zero
+ORD026,2.0,-500,unit_price must be greater than zero
+ORD031,0.0,55000,quantity must be greater than zero
+ORD036,2.0,0,unit_price must be greater than zero
