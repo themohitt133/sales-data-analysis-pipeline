@@ -127,10 +127,8 @@ Sales Charts
 
 ### 1. Clone the repository
 
-After the repository is published, use its actual GitHub URL:
-
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/themohitt133/sales-data-analysis-pipeline.git
 cd sales-data-analysis-pipeline
 ```
 
