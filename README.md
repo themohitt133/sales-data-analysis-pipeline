@@ -69,8 +69,6 @@ sales-data-analysis-pipeline/
     
 ```
 
-*The structure above describes the intended project layout. Keep the file names in this section aligned with the files actually present in your repository.*
-
 ## Pipeline Architecture
 
 ```text
